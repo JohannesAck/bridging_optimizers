@@ -1,4 +1,5 @@
 # Bridging Spherical Black Box Optimizers
+[![arXiv](https://img.shields.io/badge/arXiv-2606.25761-b31b1b.svg)](https://arxiv.org/abs/2606.25761)
 ![alt text](overview.png)
 
 This repository contains our implementations of ES, OVI, CBO, pCBO, cCBO, as well as our newly proposed ES-OVI, SchedPol and AdaPol methods.
@@ -7,7 +8,7 @@ Our implementation is closely based on [evosax](https://github.com/RobertTLange/
 
 
 ### Installation
-Please install using `uv`, by simply copying our repository and using
+Please install using `uv`, by simply cloning our repository and using
 
 ```
 uv sync
